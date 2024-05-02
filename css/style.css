@@ -19,6 +19,7 @@ header nav{
 }
 
 #menu{
+    /* flexbox */
     display: flex;
     /* debug */
     height: 60px;
@@ -55,6 +56,7 @@ header section{
 
 /* formattazione main pagina */
 .finestra{
+    /* flexbox */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -103,6 +105,7 @@ footer{
 footer nav{
     padding-bottom: 30px;
     border-bottom: 3px solid #5865f2;
+    /* flexbox */
     display: flex;
 }
 
@@ -124,6 +127,7 @@ footer nav{
 footer section{
     margin-top: 20px !important;
     height: 80px;
+    /* flexbox */
     display: flex;
     justify-content: space-between;
     align-items: center;
