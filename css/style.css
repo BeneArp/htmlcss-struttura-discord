@@ -49,3 +49,32 @@ header section{
     background-color:rgb(238 130 238);
     height: 450px;
 }
+
+/* formattazione main pagina */
+.finestra{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* debug */
+    height: 630px;
+}
+
+.img{
+    width: 50%;
+    /* debug */
+    height: 550px;
+    background-color:rgb(30 144 255);
+}
+
+.description{
+    width: 20%;
+    /* debug */
+    height: 550px;
+    background-color: rgb(255 192 203);
+}
+
+.background_even{
+    /* debug */
+    background-color:rgb(211 211 211);
+}
+
