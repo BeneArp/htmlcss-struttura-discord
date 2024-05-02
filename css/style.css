@@ -78,3 +78,16 @@ header section{
     background-color:rgb(211 211 211);
 }
 
+#download{
+    width: 70%;
+    margin: auto;
+    /* debug */
+    background-color:rgb(34 139 34);
+    height: 1200px;
+
+}
+
+.padding{
+    padding: 40px 0;
+}
+
