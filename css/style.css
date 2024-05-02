@@ -121,3 +121,29 @@ footer nav{
     background-color:rgb(32 178 170);
     border: 2px solid black;
 }
+
+footer section{
+    margin: 20px auto;
+    width: 50%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* debug */
+    background-color:rgb(127 255 212);
+}
+
+.logo{
+    /* debug */
+    background-color: red;
+    height: 50px;
+    width: 100px;
+}
+
+.botton{
+      /* debug */
+      background-color: red;
+      height: 50px;
+      width: 100px;
+}
+
