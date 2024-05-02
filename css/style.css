@@ -35,3 +35,17 @@ header nav{
     width: 60%;
 }
 
+header section{
+    padding: 50px 0;
+    /* debug */
+    background-color:rgb(0 0 139);
+    height: 550px;
+}
+
+.panoramica{
+    width: 70%;
+    margin: auto;
+    /* debug */
+    background-color:rgb(238 130 238);
+    height: 450px;
+}
