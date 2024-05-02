@@ -5,3 +5,33 @@
     box-sizing: border-box;
 }
 
+/* formattazione header */
+header nav{
+    height: 80px;
+    padding-top: 10px;
+    /* debug */
+    background-color: rgb(173 216 230);
+}
+
+#menu{
+    width: 60%;
+    margin: auto;
+    display: flex;
+    /* debug */
+    height: 60px;
+    background-color:rgb(218 165 32);
+}
+
+#menu div{
+    /* debug */
+    border: 2px solid black;
+}
+
+.icone{
+    width: 20%;
+}
+
+#voci{
+    width: 60%;
+}
+
