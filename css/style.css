@@ -21,6 +21,7 @@ header nav{
 #menu{
     /* flexbox */
     display: flex;
+    align-items: center;
     /* debug */
     height: 60px;
     background-color:rgb(218 165 32);
@@ -31,12 +32,20 @@ header nav{
     border: 2px solid black;
 }
 
+#login{
+    text-align: right;
+}
+
 .icone{
     width: 20%;
 }
 
 #voci{
     width: 60%;
+    /* flexboox */
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
 }
 
 header section{
@@ -78,7 +87,7 @@ header section{
     background-color: rgb(255 192 203);
 }
 
-.background_even{
+.bg_grey{
     /* debug */
     background-color:rgb(211 211 211);
 }
